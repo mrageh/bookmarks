@@ -34,6 +34,13 @@ end
 
 #user authentication gem
 gem 'devise', '~> 3.0.0.rc'
+
+#Help me style my app :)
+gem 'zurb-foundation', '~> 4.2.2'
+
+#Help me style my forms
+gem 'simple_form', '~> 3.0.0.rc'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
